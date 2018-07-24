@@ -1,0 +1,17 @@
+{
+	"debugMode" 	: 0,
+	"showFPS" 		: true,
+	"framerate" 	: 60,
+	"id" 			: "gameCanvas",
+	"renderMode" 	: 1,
+	"engineDir" 	: "engine",
+	"modules" 		: [
+		"cocos2d"
+	],
+	"jsList" 		: [
+		"src/loadAssets.js",
+		"src/TwoA.js",
+		"src/TileZeroTS.js",
+		"src/gameScript.js"
+	]
+}
